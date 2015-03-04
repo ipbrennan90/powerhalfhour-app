@@ -1,28 +1,9 @@
-== README
+Power Half Hour App (Associations, Authentication, ActiveRecord, Nested Routes)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It would be great if we could start having students run some of the power-half hour sessions in the afternoons.
 
-Things you may want to cover:
+Build an app that would help organize this. I think it would be cool if users could post topics they would like to see covered in 30 minute segments, and then a single user could "claim" that subject and lead us through a 30 minute talk/demo of said topic.
 
-* Ruby version
+Super open ended, just another idea to help reinforce the idea of deliberate practice involving the things we are covering in class.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Maybe instead of "Power Half Hours", we call these "Thunderstorm Talks" (╯°□°)╯
